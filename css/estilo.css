@@ -1,0 +1,39 @@
+.centrado{
+    text-align: center;
+}
+
+.espacio{
+    padding: 60px;
+}
+
+.space{
+    padding: 20;
+}
+#hero{
+    background-image: url(../img/fondo/bg-masthead.jpg);
+    height: 500px;
+}
+
+
+  
+  .animacion1{
+     animation-duration: 3s ;
+     animation-name: slidein;
+  
+  }
+
+  .unitec{
+    padding: 70;
+  }
+  .blanco{
+    color: aliceblue;
+  }
+
+  @media (width  <= 756px) {
+    /* … */
+    .name{
+        color: black;
+    }
+  }
+
+ 
